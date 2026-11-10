@@ -14,3 +14,4 @@ Claude Code: drop the folder into `~/.claude/skills/` or
 quotable campaign package.
 
 Made by Aleksandra Kabaeva — AI Creative Director · https://kabaeva.co
+[![](https://skills.sh/makskabaev9-byte/ai-fashion-campaign-brief)](https://skills.sh/makskabaev9-byte/ai-fashion-campaign-brief)
