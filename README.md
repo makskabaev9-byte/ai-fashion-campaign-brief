@@ -15,4 +15,4 @@ quotable campaign package.
 
 Made by Aleksandra Kabaeva — AI Creative Director · https://kabaeva.co
 [![](https://skills.sh/makskabaev9-byte/ai-fashion-campaign-brief)](https://skills.sh/makskabaev9-byte/ai-fashion-campaign-brief)
- PRO PACK https://kabaeva.lemonsqueezy.com/checkout/buy/f76ab952-b66b-4bb3-a05a-9df7c65375a7 
+ PRO PACK 39$ https://kabaeva.lemonsqueezy.com/checkout/buy/f76ab952-b66b-4bb3-a05a-9df7c65375a7 
