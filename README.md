@@ -54,11 +54,21 @@ The skill asks for missing details instead of inventing client constraints.
 
 ## Free vs Pro
 
+This free skill plans the campaign. The **Pro Pack** adds 4 production skills that help you
+make it: the exact system behind [kabaeva.co](https://kabaeva.co) visuals.
+
 | | Free (this repository) | Pro Pack — $39 |
 |---|---|---|
-| Skills | 1 skill: AI Fashion Campaign Brief | 4 production-ready skills |
-| What it is | Campaign brief, prompts, template and labeling notes | The full system behind kabaeva.co visuals |
+| Campaign brief | ✓ concept, shot list, prompts, pricing, labeling | ✓ works together with the Pro skills |
+| AI model consistency | Basic spec format | **ai-model-consistency** — keep one AI model's face identical across 20+ shots |
+| Art direction | Aesthetic directions list | **campaign-art-direction** — style guides, color scripts, moodboard anatomy |
+| Hooks for Reels/TikTok | Hook frame rule | **ugc-hook-factory** — 20 proven hook formulas for Reels/TikTok scripts |
+| Prompts | Image and video scaffolds | **prompt-library** — 28 copy-paste prompt formulas (campaign, editorial, UGC, product) |
+| EU AI Act labeling notes | ✓ | ✓ |
+| Updates | Public repository | Lifetime updates to v1.x, instant download |
 | License | MIT (free to use and modify) | Personal/commercial use by the buyer, no redistribution |
+
+Works with Claude, Claude Code and any agent that supports Agent Skills.
 
 **[Get the Pro Pack →](https://kabaeva.lemonsqueezy.com/checkout/buy/f76ab952-b66b-4bb3-a05a-9df7c65375a7)**
 
